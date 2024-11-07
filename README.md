@@ -174,7 +174,7 @@ At the end of each round, the terminal will display how many words were spelled 
 #### Photo Gallery
 
 <div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 10px; max-width: 450px;">
-  <img src="https://github.com/calinfrunzeanu/Introduction-to-Robotics/blob/main/folder/project%202/images/project%202%20(2).jpg" alt="Image 1" width="250" height="250" style="object-fit: cover;">
+  <img src="WhatsApp Image 2024-11-07 at 15.25.57_02f30158.jpg">
   <img src="https://github.com/calinfrunzeanu/Introduction-to-Robotics/blob/main/folder/project%202/images/project%202%20(3).jpg" alt="Image 2" width="250" height="250" style="object-fit: cover;">
   <img src="https://github.com/calinfrunzeanu/Introduction-to-Robotics/blob/main/folder/project%202/images/project%202%20(4).jpg" alt="Image 3" width="250" height="250" style="object-fit: cover;">
   <img src="https://github.com/calinfrunzeanu/Introduction-to-Robotics/blob/main/folder/project%202/images/project%202%20(5).jpg" alt="Image 4" width="250" height="250" style="object-fit: cover;">
